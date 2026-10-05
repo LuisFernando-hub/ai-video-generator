@@ -6,7 +6,8 @@ const ASPECT_RATIOS: AspectRatio[] = [
     "16:9",
     "4:3",
     "1:1",
-    "9:16"
+    "9:16",
+    "3:4"
 ];
 
 const VIDEO_RESOLUTIONS: VideoResolution[] = [
